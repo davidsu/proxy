@@ -1,0 +1,19 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "http-proxy": "^1.6.2",
+    "meow": "^3.7.0"
+  },
+  "devDependencies": {
+    "meow": "^3.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Susskind <susskinddavid@gmail.com> (https://github.com/sudavid4)",
+  "license": "ISC"
+}
